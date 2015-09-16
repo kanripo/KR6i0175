@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 辯意長者子經
+#+DATE: 2015-08-30 20:11:53.684948
+#+PROPERTY: JUAN 0
