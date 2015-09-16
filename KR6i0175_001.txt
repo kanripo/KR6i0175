@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:53.456120
+#+DATE: 2015-08-30 20:11:54.831119
 #+TITLE: 辯意長者子經
 #+PROPERTY: CBETA_ID T14n0544
 #+PROPERTY: ID KR6i0175
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 544
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0175_T_000-0837a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0175_T_001-0837a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.544¶
-
- 辯意長者子經¶
+No. 544¶
+辯意長者子經¶
 ¶
 後魏沙門法場譯¶
 
@@ -238,8 +237,7 @@ No.544¶
 」¶
 
 「復次，長者子！又有五事，得為尊貴眾人所¶
-敬。何謂為五？一者、布施周惠普廣；二者、禮¶
-敬佛法三寶及諸長老；三者、忍辱無有瞋恚；¶
+敬。何謂為五？一者、布施周惠普廣；二者、禮敬佛法三寶及諸長老；三者、忍辱無有瞋恚；¶
 四者、柔和謙下；五者、博聞學誦經戒；是¶
 為五事得為尊貴眾人所敬。」
 
